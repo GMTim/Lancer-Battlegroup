@@ -16,7 +16,7 @@ SSC Apeiron-Class Strike Carrier
 ## Wings
 > ### BALOR CHASSIS WING
 > _3 points_  
-> _Wing, Boarding, Greywash, Unique_  
+> _Wing, [Boarding](../terms.md#boarding), [Greywash](../terms.md#greywash), [Unique](../terms.md#unique)_  
 > _8 HP, Tenacity 12_  
 The Balor’s nanoswarm construction allows it to hellishly regenerate physical damage sustained during combat. During the Logistics Phase, this unit repairs 2 HP.  
 >Additionally, gain the following tactic:  
