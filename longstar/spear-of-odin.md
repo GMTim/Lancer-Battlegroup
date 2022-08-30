@@ -1,6 +1,8 @@
 # Spear Of Odin
 SSC Apeiron-Class Strike Carrier  
 
+![](../images/ssc-aperiron.png)
+
 |Cost|HP|Wings|Defense|
 |:-:|:-:|:-:|:-:|
 |6|14|4|15|

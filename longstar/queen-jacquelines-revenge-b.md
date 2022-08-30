@@ -2,6 +2,8 @@
 _Queen B, Flagship_  
 FKS Calendula-Class Battlecruiser  
 
+![](../images/fks-calendula.png)
+
 |Cost|HP|Superheavy Weapons|Primary Weapons|Systems|Defense|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |7|23|2|1|1|13|
